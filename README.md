@@ -1,4 +1,4 @@
-## Hi there, I'am metw0 ! 👋
+## Hi there, I'm metw0 ! 👋
 
 ### Aspiring Python Developer | Linux Enthusiast | Open Source Contributor
 
