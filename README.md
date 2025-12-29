@@ -20,7 +20,7 @@ I build efficient scripts, system tools, and backend applications. I'm passionat
 ---
 
 ### 🚀 What I Do
-- **Working on:** ArchMirror (minimalist package manifest generator for Arch Linux).
+- **Working on:** DotSnap (lightweight 'time Machine' for your Linux configs.).
 - **Focus:** Automation scripts, CLI tools, and API development.
 - **Learning:** Python optimization or Linux server management.
 
