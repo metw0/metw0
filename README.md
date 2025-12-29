@@ -20,7 +20,7 @@ I build efficient scripts, system tools, and backend applications. I'm passionat
 ---
 
 ### 🚀 What I Do
-- **Working on:** DotSnap (lightweight 'time Machine' for your Linux configs.).
+- **Working on:** DotSnap (lightweight 'time machine' for your Linux configs.).
 - **Focus:** Automation scripts, CLI tools, and API development.
 - **Learning:** Python optimization or Linux server management.
 
