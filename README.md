@@ -32,4 +32,4 @@ I build efficient scripts, system tools, and backend applications. I'm passionat
 - Also trying to explore Crypto world.
 - Have two Shih Tzu dogs.
 
-*Ďakujem za prečítanie !*
+*Kiitos lukemisesta !*
