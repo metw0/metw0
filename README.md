@@ -20,7 +20,7 @@ I build efficient scripts, system tools, and backend applications. I'm passionat
 ---
 
 ### 🚀 What I Do
-- **Working on:** Patch for ArchMirror that will allow cloning packages from AUR.
+- **Working on:** *Nothing...*
 - **Focus:** Automation scripts, CLI tools, and API development.
 - **Learning:** Python optimization or Linux server management.
 
