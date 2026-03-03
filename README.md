@@ -22,7 +22,7 @@ I build efficient scripts, system tools, and backend applications. I'm passionat
 ### 🚀 What I Do
 - **Working on:** *Nothing...*
 - **Focus:** Automation scripts, CLI tools, and API development.
-- **Learning:** Python optimization or Linux server management.
+- **Learning:** Rust for systems / CLI tools programming.
 
 ---
 
