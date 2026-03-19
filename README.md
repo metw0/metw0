@@ -1,6 +1,6 @@
 ## Hi there, I'm metw0 ! 👋
 
-### Aspiring Python Developer | Linux Enthusiast | Open Source Contributor
+### Aspiring Developer | Linux Enthusiast | Open Source Contributor
 
 I build efficient scripts, system tools, and backend applications. I'm passionate about open-source and optimizing workflows within the Linux ecosystem.
 
@@ -9,6 +9,7 @@ I build efficient scripts, system tools, and backend applications. I'm passionat
 ### 🛠 Tech Stack
 
 **Languages & Core:**
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -20,9 +21,9 @@ I build efficient scripts, system tools, and backend applications. I'm passionat
 ---
 
 ### 🚀 What I Do
-- **Working on:** *Suck, DPI !*
-- **Focus:** Automation scripts, CLI tools, and API development.
-- **Learning:** Rust for systems / CLI tools programming.
+- **Working on:** Suck, DPI !
+- **Focus:** CLI tools, and API development.
+- **Learning:** Methods of bypassing the DPI and their structure.
 
 ---
 
