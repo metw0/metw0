@@ -2,7 +2,7 @@
 
 ### Aspiring Developer | Linux Enthusiast | Open Source Contributor
 
-I build efficient scripts, system tools, and backend applications. I'm passionate about open-source and optimizing workflows within the Linux ecosystem.
+I build efficient scripts, system tools, and backend applications. I'm passionate about open-source and optimizing workflows within the Linux ecosystem
 
 ---
 
@@ -22,15 +22,15 @@ I build efficient scripts, system tools, and backend applications. I'm passionat
 
 ### 🚀 What I Do
 - **Working on:** Suck, DPI !
-- **Focus:** CLI tools, and API development.
-- **Learning:** Methods of bypassing the DPI and their structure.
+- **Focus:** CLI/TUI tools and API development
+- **Learning:** Methods of bypassing the DPI and their structure
 
 ---
 
 ### 📑 A Bit About Me
-- Making only Open Source projects.
-- Favorite movie is 'Oppenheimer' / Anime is JJBA 'Steel Ball Run'.
-- Also trying to explore Crypto world.
-- Have two Shih Tzu dogs.
+- Making only Open Source projects
+- Favorite movie is 'Oppenheimer' / Anime is JJBA 'Steel Ball Run'
+- I also study DevOps tools
+- Have two Shih Tzu dogs
 
 *Ďakujem za prečítanie!*
