@@ -21,7 +21,7 @@ I build efficient scripts, system tools, and backend applications. I'm passionat
 ---
 
 ### 🚀 What I Do
-- **Working on:** Suck, DPI !
+- **Working on:** Nothing...
 - **Focus:** CLI/TUI tools and API development
 - **Learning:** Methods of bypassing the DPI and their structure
 
