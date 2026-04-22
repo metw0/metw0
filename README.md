@@ -9,7 +9,7 @@ I build efficient scripts, system tools, and backend applications. I'm passionat
 ### 🛠 Tech Stack
 
 **Languages & Core:**
-![Rust](https://img.shields.io/badge/rust-%23CE412B.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%2320232a.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **Tools & Environment:**
