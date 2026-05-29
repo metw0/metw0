@@ -11,5 +11,5 @@
 <br>
 
 <div align="center">
-  <p><i>¡Gracias por vuestra atención !</i></p>
+  <p><i>¡gracias por vuestra atención !</i></p>
 </div>
