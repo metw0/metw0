@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+  <h2>metw0 - metwo</h2>
+  <br>
+  <img src="https://skillicons.dev/icons?i=ts,html,bash,py,linux,raspberrypi,docker,ipfs,mongodb,nginx,sqlite" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,aws,git,neovim,vim,cloudflare,github,replit,heroku" />
+</div>
 
-<!--
-**metw0/metw0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br><br>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <p><i>¡Gracias por vuestra atención !</i></p>
+</div>
