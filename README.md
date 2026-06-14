@@ -3,9 +3,9 @@
   <br>
   <img src="https://skillicons.dev/icons?i=rust,linux" />
   <br>
-  <img src="https://skillicons.dev/icons?i=ts,html,bash,py,raspberrypi,docker,ipfs,mongodb,nginx,sqlite" />
+  <img src="https://skillicons.dev/icons?i=ts,html,bash,py,raspberrypi,docker,ipfs,mongodb,nginx,sqlite,git" />
   <br>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,aws,git,neovim,vim,cloudflare,github,replit,heroku" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,aws,neovim,vim,cloudflare,github,replit,heroku" />
 </div>
 
 <br><br><br>
