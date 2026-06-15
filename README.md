@@ -1,7 +1,7 @@
 <div align="center">
   <h2>metw0 - metwo</h2>
   <br>
-  <img src="https://skillicons.dev/icons?i=rust,linux" />
+  <img src="https://skillicons.dev/icons?i=c#,linux" />
   <br>
   <img src="https://skillicons.dev/icons?i=ts,html,bash,py,raspberrypi,docker,ipfs,mongodb,nginx,sqlite,git" />
   <br>
