@@ -1,9 +1,9 @@
 <div align="center">
   <h2>metw0 - metwo</h2>
   <br>
-  <img src="https://skillicons.dev/icons?i=cs,linux" />
+  <img src="https://skillicons.dev/icons?i=cs,ts" />
   <br>
-  <img src="https://skillicons.dev/icons?i=ts,html,bash,py,raspberrypi,docker,ipfs,mongodb,nginx,sqlite,git" />
+  <img src="https://skillicons.dev/icons?i=html,bash,py,linux,raspberrypi,docker,ipfs,mongodb,nginx,sqlite,git" />
   <br>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,aws,neovim,vim,cloudflare,github,replit,heroku" />
 </div>
