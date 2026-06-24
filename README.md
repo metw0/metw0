@@ -7,7 +7,7 @@
   <br>
   <img src="https://skillicons.dev/icons?i=linux,bsd,docker,ipfs,mongodb,nginx,sqlite,git,redis" />
   <br>
-  <img src="https://skillicons.dev/icons?i=vscodium,github,bots,vim,nvim,githubactions,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=vscodium,github,bots,vim,neovim,githubactions,raspberrypi" />
   </a>
 </div>
 
