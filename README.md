@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
   <h2>metw0 - metwo</h2>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,nodejs" />
@@ -6,7 +6,7 @@
   <img src="https://skillicons.dev/icons?i=linux,bsd,docker,ipfs,mongodb,nginx,sqlite,git,redis" />
   <img src="https://skillicons.dev/icons?i=vscodium,github,bots,vim,nvim" />
   </a>
-</p>
+</div>
 
 <br><br><br>
 
