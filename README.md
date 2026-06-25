@@ -3,9 +3,9 @@
   <h2>metw0 - metwo</h2>
   <img src="https://skillicons.dev/icons?i=c,go" />
   <br>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,ts,py,bash,html,css" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,py,bash,html,css" />
   <br>
-  <img src="https://skillicons.dev/icons?i=linux,bsd,docker,ipfs,mongodb,nginx,sqlite,git,redis,bun" />
+  <img src="https://skillicons.dev/icons?i=linux,postgres,bsd,docker,ipfs,mongodb,nginx,sqlite,git,redis,bun" />
   <br>
   <img src="https://skillicons.dev/icons?i=vscodium,github,bots,vim,neovim,githubactions,raspberrypi" />
   </a>
