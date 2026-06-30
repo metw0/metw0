@@ -3,7 +3,7 @@
   <h2>metw0 - metwo</h2>
   <img src="https://skillicons.dev/icons?i=c,go" />
   <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,py,bash" />
+  <img src="https://skillicons.dev/icons?i=lua,nodejs,ts,py,bash" />
   <br>
   <img src="https://skillicons.dev/icons?i=linux,postgres,docker,ipfs,mongodb,nginx,sqlite,git,redis,bun" />
   <br>
