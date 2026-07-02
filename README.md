@@ -5,9 +5,9 @@
   <br>
   <img src="https://skillicons.dev/icons?i=lua,nodejs,ts,py,bash" />
   <br>
-  <img src="https://skillicons.dev/icons?i=linux,postgres,docker,ipfs,mongodb,nginx,sqlite,git,redis,bun" />
+  <img src="https://skillicons.dev/icons?i=linux,postgres,docker,ipfs,mongodb,nginx,sqlite,git,redis" />
   <br>
-  <img src="https://skillicons.dev/icons?i=vscodium,github,bots,vim,neovim,githubactions,raspberrypi,bsd" />
+  <img src="https://skillicons.dev/icons?i=vscodium,github,bots,vim,neovim,githubactions,raspberrypi,bsd,bun" />
   </a>
 </div>
 
