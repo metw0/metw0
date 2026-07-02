@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://skillicons.dev">
   <h2>metw0 - metwo</h2>
-  <img src="https://skillicons.dev/icons?i=c,go" />
+  <img src="https://skillicons.dev/icons?i=cpp,go" />
   <br>
   <img src="https://skillicons.dev/icons?i=lua,nodejs,ts,py,bash" />
   <br>
