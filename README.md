@@ -3,11 +3,11 @@
   <h2>metw0 - metwo</h2>
   <img src="https://skillicons.dev/icons?i=c,cpp,go" />
   <br>
-  <img src="https://skillicons.dev/icons?i=lua,nodejs,ts,py,bash" />
+  <img src="https://skillicons.dev/icons?i=lua,nodejs,deno,ts,py,bash" />
   <br>
-  <img src="https://skillicons.dev/icons?i=linux,postgres,docker,ipfs,mongodb,nginx,sqlite,git,redis" />
+  <img src="https://skillicons.dev/icons?i=linux,postgres,docker,kubernetes,ipfs,mongodb,nginx,sqlite,git,redis,bun" />
   <br>
-  <img src="https://skillicons.dev/icons?i=vscodium,github,bots,vim,neovim,githubactions,raspberrypi,bsd,bun" />
+  <img src="https://skillicons.dev/icons?i=vscodium,github,bots,vim,neovim,githubactions,raspberrypi,bsd" />
   </a>
 </div>
 
