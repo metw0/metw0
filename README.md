@@ -1,10 +1,9 @@
-metw0 - metwo      
+# metw0 - metwo      
 Hi, everyone !            
-I'm metw0 - a system programmer, DevOps engineer and Linux enthusiast. I'm also learning embedded and backend development.         
+I'm metwo - a **system programmer**, DevOps engineer and Linux enthusiast. I'm also learning embedded and backend development.         
        
 Check out my skills:        
-<img src="https://skillicons.dev/icons?i=c,cpp,lua,py,bash,cmake" />           
-<img src="https://skillicons.dev/icons?i=linux,docker,ipfs,mongodb,sqlite,git" />          
-<img src="https://skillicons.dev/icons?i=vscodium,github,bots,vim,neovim,githubactions,raspberrypi,bsd" />          
-   
-¡gracias por vuestra atención !             
+<img src="https://skillicons.dev/icons?i=c,cpp,go,lua,py,bash" />           
+<img src="https://skillicons.dev/icons?i=cmake,linux,ipfs,mongodb,sqlite,git,docker" />                     
+
+*¡gracias por vuestra atención !*             
