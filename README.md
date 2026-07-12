@@ -1,7 +1,5 @@
-<div align="center">
-  <a href="https://skillicons.dev">
-  <h2>metw0 - metwo</h2>
-<div>
+<a href="https://skillicons.dev">
+metw0 - metwo
 Hi, everyone !          
 I'm metw0 - a system programmer, DevOps engineer and Linux enthusiast. I'm also learning embedded and backend development.         
 
