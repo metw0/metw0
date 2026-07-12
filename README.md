@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://skillicons.dev">
   <h2>metw0 - metwo</h2>
-  <img src="https://skillicons.dev/icons?i=c,cpp" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,lua" />
   <br>
-  <img src="https://skillicons.dev/icons?i=lua,nodejs,deno,ts,py,bash" />
+  <img src="https://skillicons.dev/icons?i=cmake,nodejs,deno,ts,py,bash" />
   <br>
   <img src="https://skillicons.dev/icons?i=linux,docker,ipfs,mongodb,sqlite,git,bun" />
   <br>
