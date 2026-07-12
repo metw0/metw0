@@ -1,20 +1,13 @@
 <div align="center">
   <a href="https://skillicons.dev">
   <h2>metw0 - metwo</h2>
-  <img src="https://skillicons.dev/icons?i=c,cpp" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=cmake,lua,py,bash" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=linux,docker,ipfs,mongodb,sqlite,git" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=vscodium,github,bots,vim,neovim,githubactions,raspberrypi,bsd" />
-  </a>
-</div>
+<div>
+Hi, everyone !
+I'm metw0 - a system programmer, DevOps engineer and Linux enthusiast. I'm also learning embedded and backend development.
 
-<br><br><br>
+Check out my skills: 
+<img src="https://skillicons.dev/icons?i=c,cpp,lua,py,bash,cmake" />
+<img src="https://skillicons.dev/icons?i=linux,docker,ipfs,mongodb,sqlite,git" />
+<img src="https://skillicons.dev/icons?i=vscodium,github,bots,vim,neovim,githubactions,raspberrypi,bsd" />
 
-<br>
-
-<div align="center">
-  <p><i>¡gracias por vuestra atención !</i></p>
-</div>
+¡gracias por vuestra atención !
